@@ -13,11 +13,8 @@
 
 ## Operating Systems Weekly Top Ten List
 * [Week 00](W00/)
-<br>
 * [Week 01](W01/)
-<br>
 * [Week 02](W02/)
-<br>
 * [Week 03](W03/)
 <br>
 * [Week 04](W04/)
