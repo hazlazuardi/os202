@@ -16,17 +16,10 @@
 * [Week 01](W01/)
 * [Week 02](W02/)
 * [Week 03](W03/)
-<br>
 * [Week 04](W04/)
-<br>
 * [Week 05](W05/)
-<br>
 * [Week 06](W06/)
-<br>
 * [Week 07](W07/)
-<br>
 * [Week 08](W08/)
-<br>
 * [Week 09](W09/)
-<br>
 * [Week 10](W10/)
