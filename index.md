@@ -10,11 +10,8 @@
 
 ## Log 
 [Open My Log](TXT/mylog.txt)
-<br>
 
-<br>
 ## Operating Systems Weekly Top Ten List
-<br>
 * [Week 00](W00/)
 <br>
 * [Week 01](W01/)
