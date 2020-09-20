@@ -1,6 +1,7 @@
 ---
 
 [WEB](https://hazlazuardi.github.io/os202/)
+<br>
 [GitHub](https://github.com/hazlazuardi/os202/)
 
 <br>
@@ -8,7 +9,7 @@
 # My name is Wishnu Hazmi
 
 ## Log 
-[Open My Log] (TXT/mylog.txt)
+[Open My Log](TXT/mylog.txt)
 <br>
 
 <br>
