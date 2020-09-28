@@ -6,3 +6,8 @@ ZCZC W0 10 L01 Exploring OS course page on SCELE
 ZCZC W0 15 L03 Creating Github Repo and filling it
 ZCZC W0 30 L05 GSGS for Github pages
 ZCZC W0 30 L04 Creating Github page for OS2020 Repo
+
+ZCZC W1 60 L03 Writing Week00 Top Ten
+ZCZC W1 60 L03 Writing Week01 Top Ten
+ZCZC W1 180 L11 Setting up Debian, Badak, Kawung, and SSH
+ZCZC W1 60 L01 Briefly reading the slides on SCELE
