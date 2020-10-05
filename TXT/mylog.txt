@@ -11,3 +11,10 @@ ZCZC W1 60 L03 Writing Week00 Top Ten
 ZCZC W1 60 L03 Writing Week01 Top Ten
 ZCZC W1 180 L11 Setting up Debian, Badak, Kawung, and SSH
 ZCZC W1 60 L01 Briefly reading the slides on SCELE
+
+ZCZC W2 60 L11 Setting up PubKey
+ZCZC W2 90 L03 Writing Week02 Top Ten
+ZCZC W2 90 L03 Writing bash script
+ZCZC W2 90 L03 Writing mylog
+ZCZC W2 90 L05 GSGS Materials for Top Ten
+ZCZC W1 60 L01 Briefly reading the slides on SCELE
