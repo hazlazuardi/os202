@@ -6,7 +6,7 @@
 <br>
 [Public Key](TXT/mypubkey.txt)
 <br>
-[Script](TXT/mysript.sh)
+[Script](TXT/myscript.sh)
 <br>
 [Rank](TXT/myrank.txt)
 <br>
