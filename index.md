@@ -1,26 +1,22 @@
----
+# Log 
+[See My Latest Log!](TXT/mylog.txt)
 
-[WEB](https://hazlazuardi.github.io/os202/)
-<br>
-[GitHub](https://github.com/hazlazuardi/os202/)
-<br>
-[Public Key](TXT/mypubkey.txt)
-<br>
-[Script](TXT/myscript.sh)
-<br>
-[Rank](TXT/myrank.txt)
-<br>
-[SHA256SUM](TXT/SHA256SUM.txt)
-<br>
-[SHA256SUM.asc](TXT/SHA256SUM.asc)
-<br>
+<br><br> 
 
-# My name is Wishnu Hazmi
-
-## Log 
-[Open My Log](TXT/mylog.txt)
-
-## Operating Systems Weekly Top Ten List
+# Operating Systems Weekly Top Ten List
 * [Week 00](W00/)
 * [Week 01](W01/)
-* [Week 02](W02/)
+* [Week 02](W02/)                                
+* [Week 03](W03/)  
+
+<br><br>
+
+## Misc
+[WEB](https://hazlazuardi.github.io/os202/) | 
+[GitHub](https://github.com/hazlazuardi/os202/) | 
+[Public Key](TXT/mypubkey.txt) | 
+[Script](TXT/myscript.sh) |
+[Rank](TXT/myrank.txt) | 
+[SHA256SUM](TXT/SHA256SUM.txt) | 
+[SHA256SUM.asc](TXT/SHA256SUM.asc) | 
+
