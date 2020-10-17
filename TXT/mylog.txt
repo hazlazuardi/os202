@@ -28,3 +28,11 @@ ZCZC W3 90 L05 Looking for references for The Top Ten
 ZCZC W3 100 L02 Attending Lecture 
 ZCZC W3 10 L01 Briefly reading the slides on SCELE
 
+ZCZC W4 45  L21  Reinstall VirtualBox (Accidentally deleted)
+ZCZC W4 135 L03  Writing mylog, myrank, sign SHA256SUM, and Top Ten List
+ZCZC W4 90  L05  Looking for references for The Top Ten
+ZCZC W4 60  L14  Decrypt the asc file, Put the content into W04.txt, and making W04 token 
+ZCZC W4 05  L03  Doing the 4 mantra: pull, add, commit, push 
+ZCZC W4 100 L02  Attending Lecture 
+ZCZC W4 10  L01  Briefly reading the slides on SCELE
+
