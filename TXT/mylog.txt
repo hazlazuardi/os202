@@ -36,3 +36,10 @@ ZCZC W4 05  L03  Doing the 4 mantra: pull, add, commit, push
 ZCZC W4 100 L02  Attending Lecture 
 ZCZC W4 10  L01  Briefly reading the slides on SCELE
 
+ZCZC W5 45  L21  Export OVA
+ZCZC W5 120 L10  Writing mylog, myrank, sign SHA256SUM, and Top Ten List
+ZCZC W5 90  L05  Looking for references for The Top Ten
+ZCZC W5 60  L15  Decrypt the asc file, Put the content into W05.txt, and making W05 token 
+ZCZC W5 05  L03  Doing the 4 mantra: pull, add, commit, push 
+ZCZC W5 100 L02  Attending Lecture 
+ZCZC W5 10  L01  Briefly reading the slides on SCELE
