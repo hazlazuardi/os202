@@ -1,54 +1,59 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W0 60 L02 Zoom first meeting
-ZCZC W0 10 L01 Exploring OS course page on SCELE
-ZCZC W0 15 L03 Creating Github Repo and filling it
-ZCZC W0 30 L05 GSGS for Github pages
-ZCZC W0 30 L04 Creating Github page for OS2020 Repo
-
-ZCZC W1 60 L03 Writing Week00 Top Ten
-ZCZC W1 60 L03 Writing Week01 Top Ten
-ZCZC W1 180 L11 Setting up Debian, Badak, Kawung, and SSH
-ZCZC W1 60 L01 Briefly reading the slides on SCELE
-
-ZCZC W2 60 L11 Setting up PubKey
-ZCZC W2 90 L03 Writing Week02 Top Ten
-ZCZC W2 90 L03 Writing bash script
-ZCZC W2 90 L03 Writing mylog
-ZCZC W2 90 L05 GSGS Materials for Top Ten
-ZCZC W2 60 L01 Briefly reading the slides on SCELE
-
-ZCZC W3 45 L13 Setting up .bash_aliases
-ZCZC W3 45 L21 Setting up the TLPI tarball
-ZCZC W3 30 L13 Writing mylog, myrank, myw03disk, myW03token, and other files for pushing to github
-ZCZC W3 05 L03 Doing the 4 mantra: pull, add, commit, push 
-ZCZC W3 90 L13 Writing the Top Ten List Week 03
-ZCZC W3 90 L05 Looking for references for The Top Ten
-ZCZC W3 100 L02 Attending Lecture 
-ZCZC W3 10 L01 Briefly reading the slides on SCELE
-
-ZCZC W4 45  L21  Reinstall VirtualBox (Accidentally deleted)
-ZCZC W4 135 L03  Writing mylog, myrank, sign SHA256SUM, and Top Ten List
-ZCZC W4 90  L05  Looking for references for The Top Ten
-ZCZC W4 60  L14  Decrypt the asc file, Put the content into W04.txt, and making W04 token 
-ZCZC W4 05  L03  Doing the 4 mantra: pull, add, commit, push 
-ZCZC W4 100 L02  Attending Lecture 
-ZCZC W4 10  L01  Briefly reading the slides on SCELE
-
-ZCZC W5 45  L21  Export OVA
-ZCZC W5 120 L10  Writing mylog, myrank, sign SHA256SUM, and Top Ten List
-ZCZC W5 90  L05  Looking for references for The Top Ten
-ZCZC W5 60  L15  Decrypt the asc file, Put the content into W05.txt, and making W05 token 
-ZCZC W5 05  L03  Doing the 4 mantra: pull, add, commit, push 
-ZCZC W5 100 L02  Attending Lecture 
-ZCZC W5 10  L01  Briefly reading the slides on SCELE
-
-ZCZC W6 120 L10  Writing mylog, myrank, sign SHA256SUM, and Top Ten List
-ZCZC W6 90  L05  Looking for references for The Top Ten
-ZCZC W6 60  L16  Decrypt the asc file, Put the content into myW06.txt, making myW06token.txt, and myW06.tar.bz2.txt 
-ZCZC W6 05  L03  Doing the 4 mantra: pull, add, commit, push
-ZCZC W6 100 L02  Attending Lecture
-ZCZC W6 10  L01  Briefly reading the slides on os.vlsm.org
-ZCZC W6 30  L21  Reinstalling VirtualBox Due to error by updating MacOS
-
+ZCZC W00   60  L02  Zoom first meeting
+ZCZC W00   10  L01  Exploring OS course page on SCELE
+ZCZC W00   15  L03  Creating Github Repo and filling it
+ZCZC W00   30  L05  GSGS for Github pages
+ZCZC W00   30  L04  Creating Github page for OS2020 Repo
+ZCZC W01   60  L03  Writing Week00 Top Ten
+ZCZC W01   60  L03  Writing Week01 Top Ten
+ZCZC W01  180  L11  Setting up Debian, Badak, Kawung, and SSH
+ZCZC W01   60  L01  Briefly reading the slides on SCELE
+ZCZC W02   60  L11  Setting up PubKey
+ZCZC W02   90  L03  Writing Week02 Top Ten
+ZCZC W02   90  L03  Writing bash script
+ZCZC W02   90  L03  Writing mylog
+ZCZC W02   90  L05  GSGS Materials for Top Ten
+ZCZC W02   60  L01  Briefly reading the slides on SCELE
+ZCZC W03   45  L13  Setting up .bash_aliases
+ZCZC W03   45  L21  Setting up the TLPI tarball
+ZCZC W03   30  L13  Writing mylog, myrank, myw03disk, myW03token, and other files for pushing to github
+ZCZC W03   05  L03  Doing the 4 mantra: pull, add, commit, push 
+ZCZC W03   90  L13  Writing the Top Ten List Week 03
+ZCZC W03   90  L05  Looking for references for The Top Ten
+ZCZC W03  100  L02  Attending Lecture 
+ZCZC W03   10  L01  Briefly reading the slides on SCELE
+ZCZC W04   45  L21  Reinstall VirtualBox (Accidentally deleted)
+ZCZC W04  135  L03  Writing mylog, myrank, sign SHA256SUM, and Top Ten List
+ZCZC W04   90  L05  Looking for references for The Top Ten
+ZCZC W04   60  L14  Decrypt the asc file, Put the content into W04.txt, and making W04 token 
+ZCZC W04   05  L03  Doing the 4 mantra: pull, add, commit, push 
+ZCZC W04  100  L02  Attending Lecture 
+ZCZC W04   10  L01  Briefly reading the slides on SCELE
+ZCZC W05   45  L21  Export OVA
+ZCZC W05  120  L10  Writing mylog, myrank, sign SHA256SUM, and Top Ten List
+ZCZC W05   90  L05  Looking for references for The Top Ten
+ZCZC W05   60  L15  Decrypt the asc file, Put the content into W05.txt, and making W05 token 
+ZCZC W05   05  L03  Doing the 4 mantra: pull, add, commit, push 
+ZCZC W05  100  L02  Attending Lecture 
+ZCZC W05   10  L01  Briefly reading the slides on SCELE
+ZCZC W06  120  L10  Writing mylog, myrank, sign SHA256SUM, and Top Ten List
+ZCZC W06   90  L05  Looking for references for The Top Ten
+ZCZC W06   60  L16  Decrypt the asc file, Put the content into myW06.txt, making myW06token.txt, and myW06.tar.bz2.txt 
+ZCZC W06   05  L03  Doing the 4 mantra: pull, add, commit, push
+ZCZC W06   10  L01  Briefly reading the slides on os.vlsm.org
+ZCZC W06   30  L21  Reinstalling VirtualBox Due to error by updating MacOS
+ZCZC W07   30  L00  General Log
+ZCZC W07  120  L02  ZOOM related: OS synchronous class
+ZCZC W07   90  L05  GSGS related: Looking for references for the top ten
+ZCZC W07   85  L10  Assignment General
+ZCZC W07    5  L11  Assignment 1: - Week 07 Token: TFAWAKENS
+ZCZC W07    5  L13  Assignment 3: Update my Virtual Guest
+ZCZC W07   15  L14  Assignment 4: Review Last Week TOP 10 and pick 3 out of 10 closest neighbors and put the result into myrank.txt
+ZCZC W07  120  L15  Assignment 5: Create my TOP 10 List of Week 07
+ZCZC W07   15  L16  Assignment 6: Run "chktoken TFAWAKENS" and write the result into myW07token.txt.
+ZCZC W07   15  L18  Assignment 8: Update mylog.txt
+ZCZC W07    2  L19  Assignment 9: Update bash myscript.sh
+ZCZC W07   30  L26  Movie: Netflix
+ZCZC W07   60  L22  Youtube: Learning Scriptwriting
