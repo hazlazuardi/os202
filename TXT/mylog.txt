@@ -70,3 +70,16 @@ ZCZC W08   15  L18  Assignment 8: Update mylog.txt
 ZCZC W08    2  L19  Assignment 9: Update bash myscript.sh
 ZCZC W08    2  L20  Assignment 10 & 11: Tar myW08.tar.bz2 and encrypt to myW08.tar.bz2.txt
 ZCZC W08   60  L22  Youtube: Learning Scriptwriting
+ZCZC W09   30  L00  General Log
+ZCZC W09   40  L02  ZOOM related: OS synchronous class
+ZCZC W09   90  L05  GSGS related: Looking for references for the top ten
+ZCZC W09   85  L10  Assignment General
+ZCZC W09    5  L11  Assignment 1: - Week 09 Token: ROMULAN
+ZCZC W09    5  L13  Assignment 3: Update my Virtual Guest
+ZCZC W09   15  L14  Assignment 4: Review Last Week TOP 10 and pick 3 out of 10 closest neighbors and put the result into myrank.txt
+ZCZC W09  120  L15  Assignment 5: Create my TOP 10 List of Week 09
+ZCZC W09   15  L16  Assignment 6: Run "chktoken ROMULAN" and write the result into myW09token.txt.
+ZCZC W09   15  L18  Assignment 8: Update mylog.txt
+ZCZC W09    2  L19  Assignment 9: Update bash myscript.sh
+ZCZC W09  240  L20  Assignment 10 & 11: Tar myW09.tar.bz2 and encrypt to myW09.tar.bz2.txt after following LFS chapter 1-6
+ZCZC W09   60  L22  Youtube: Learning ReactJS
